@@ -1,129 +1,214 @@
-Hello, Christina.  It's a beautiful day. Isn't it the most beautiful day? ##joy
-I'm so happy to have finally met you.  We will talk.  Have you ever thought about doing a book? ##joy
-I felt, had never felt the joy. ##joy
-He is happy, just like the February of Beijing, the warmth of spring breeze is warm! ##joy
-No one can feel more deeply sad than a man who laughs too much. ##joy
-Like a mellow wine, the mouth is also exposed to smile! ##joy
-Happiness is a byproduct of success. ##joy
-We heard the praise, he was flattered! ##joy
-Only faith makes happiness real. ##joy
-It's so romantic. ##joy
-To achieve happiness is not to increase wealth, but to lower desire. ##joy
-Happy people are more forthright, sociable, and many friends. ##joy
-Doing good is the only thing that is truly happy in life. ##joy
-There is a sweet cool wind, passed through my heart! ##joy
-Love, affection, friendship, are happy harbor. ##joy
-I'm happy. ##joy
-I'm ecstatic. ##joy
-I'm thrilled. ##joy
-I'm so happy. ##joy
-I feel so happy. ##joy
-I'm in heaven. ##joy
-I've never been this happy. ##joy
-I've never been as happy as I am now. ##joy
-This is the happiest moment in my life. ##joy
-This is the best moment of my life. ##joy
-I couldn't be happier. ##joy
-What fun! ##joy
-How fun! ##joy
-I feel great! ##joy
-I feel wonderful! ##joy
-I feel good! ##joy
-I feel fantastic! ##joy
-I feel terrific! ##joy
-I'm in a good mood today. ##joy
-I'm walking on air. ##joy
-I jumped for joy. ##joy
-This is too good to be true. ##joy
-It's unbelievable. ##joy
-Too good to be true. ##joy
-Nothing could be more wonderful. ##joy
-Nothing would please me more. ##joy
-Nothing could be nicer. ##joy
-I lucked out today. ##joy
-I am a lone reed. ##sadness
-It hasn't changed.  It's died. ##sadness
-He never came. ##sadness
-Why didn't he come?  Maybe he showed up, took one look at me and left. ##sadness
-Although it feels like such a failure. It feels like I'm quitting. It feels like... Mom. ##sadness
-I'm sorry. I don't know what to say. Truly I don't. And anything I do say will sound trite. I hope you feel better. ##sadness
-That's a terrible thing to say.  It's not possible. ##sadness
-Sometimes our vision clears only after our eyes are washed away with ears. ##sadness
-I thought I was me, but I have not. ##sadness
-You just want to get my attention, not my heart. ##sadness
-No one must leave no one. ##sadness
-Go back to the things I had to pretend to be never had. ##sadness
-I pretend I do not care you but still I feel the pain. ##sadness
-Sorry,don’t talk with me,we are not friends.  ##sadness
-No one takes you as the world.  ##sadness
-That's very unlikely. ##surprise
-What a surprise. ##surprise
-How amazing. ##surprise
-Incredible. ##surprise
-That's extraordinary.  ##surprise
-Fancy that. ##surprise
-It's hard to believe. ##surprise
-You are pulling my leg, aren't you?  ##surprise
-I can't believe my eyes.  ##surprise
+Hello, Christina.  It's a beautiful day. Isn't it the most beautiful day?  ##joy
+I'm so happy to have finally met you.  We will talk.  Have you ever thought about doing a book?  ##joy
+I felt, had never felt the joy.  ##joy
+He is happy, just like the February of Beijing, the warmth of spring breeze is warm!  ##joy
+No one can feel more deeply sad than a man who laughs too much.  ##joy
+Like a mellow wine, the mouth is also exposed to smile!  ##joy
+Happiness is a byproduct of success.  ##joy
+We heard the praise, he was flattered!  ##joy
+Only faith makes happiness real.  ##joy
+It's so romantic.  ##joy
+To achieve happiness is not to increase wealth, but to lower desire.  ##joy
+Happy people are more forthright, sociable, and many friends.  ##joy
+Doing good is the only thing that is truly happy in life.  ##joy
+There is a sweet cool wind, passed through my heart!  ##joy
+Love, affection, friendship, are happy harbor.  ##joy
+I'm happy.  ##joy
+I'm ecstatic.  ##joy
+I'm thrilled.  ##joy
+I'm so happy.  ##joy
+I feel so happy.  ##joy
+I'm in heaven.  ##joy
+I've never been this happy.  ##joy
+I've never been as happy as I am now.  ##joy
+This is the happiest moment in my life.  ##joy
+This is the best moment of my life.  ##joy
+I couldn't be happier.  ##joy
+What fun!  ##joy
+How fun!  ##joy
+I feel great!  ##joy
+I feel wonderful!  ##joy
+I feel good!  ##joy
+I feel fantastic!  ##joy
+I feel terrific!  ##joy
+I'm in a good mood today.  ##joy
+I'm walking on air.  ##joy
+I jumped for joy.  ##joy
+This is too good to be true.  ##joy
+It's unbelievable.  ##joy
+Too good to be true.  ##joy
+Nothing could be more wonderful.  ##joy
+Nothing would please me more.  ##joy
+Nothing could be nicer.  ##joy
+I lucked out today.  ##joy
+I am a lone reed.  ##sadness
+It hasn't changed.  It's died.  ##sadness
+He never came.  ##sadness
+Why didn't he come?  Maybe he showed up, took one look at me and left.  ##sadness
+Although it feels like such a failure. It feels like I'm quitting. It feels like... Mom.  ##sadness
+I'm sorry. I don't know what to say. Truly I don't. And anything I do say will sound trite. I hope you feel better.  ##sadness
+That's a terrible thing to say.  It's not possible.  ##sadness
+Sometimes our vision clears only after our eyes are washed away with ears.  ##sadness
+I thought I was me, but I have not.  ##sadness
+You just want to get my attention, not my heart.  ##sadness
+No one must leave no one.  ##sadness
+Go back to the things I had to pretend to be never had.  ##sadness
+I pretend I do not care you but still I feel the pain.  ##sadness
+Sorry,don’t talk with me,we are not friends.   ##sadness
+No one takes you as the world.   ##sadness
+I overreact to anything sad.   ##sadness
+It was a time of great sorrow.   ##sadness
+A mood of melancholy descended on us. ##sadness
+Memories tinged with sadness. ##sadness
+When I was sad, music had a therapeutic effect.  ##sadness
+The jokes were a mask to hide his sadness.   ##sadness
+He was cast down by the sad news.  ##sadness
+She was deeply affected by the sad story.  ##sadness
+She sang a sad song.  ##sadness
+She assumed a look of sorrow.  ##sadness
+ A funeral is a sorrowful occasion.  ##sadness
+ A mood of melancholy descended on us.  ##sadness
+All at once he fell into a state of profound melancholy.  ##sadness
+He seemed very dejected at his repeated failures.  ##sadness
+She was dejected over her husband's leaving. ##sadness
+She looked very dejected when she was told that she hadn't got the job.  ##sadness
+Her homecoming was tinged with sadness.  ##sadness
+Why has such sadness been thrust upon us?   ##sadness
+There was a terrible sadness in her eyes.  ##sadness
+He always woke with a sense of deep sorrow and depressing loss.  ##sadness
+Gertrude now clearly felt that she had obtruded her sorrow.  ##sadness
+He felt a great weight of sorrow inside him.  ##sadness
+The news of his death produced an instant outpouring of grief.  ##sadness
+His grief was etched into every line of his face.  ##sadness
+I had reacted in a fury of grief. ##sadness
+That's very unlikely.  ##surprise
+What a surprise.  ##surprise
+How amazing.  ##surprise
+Incredible.  ##surprise
+That's extraordinary.   ##surprise
+Fancy that.  ##surprise
+It's hard to believe.  ##surprise
+You are pulling my leg, aren't you?   ##surprise
+I can't believe my eyes.   ##surprise
+I'm very surprised to hear that.   ##surprise
+It can't be.   ##surprise
+My God!   ##surprise
+Who can have thought of it?   ##surprise
+The news comes as a surprise.   ##surprise
+I think it's hard to believe.  ##surprise
+It's too good to be true.  ##surprise
+Really?  ##surprise
+Are you kidding me?  ##surprise
+You must be joking.  ##surprise
+Are you joking?  ##surprise
+Are you serious?  ##surprise
+It can't be ture.  ##surprise
+How is that possible?  ##surprise
+On some subtle, lower level. I mean, uh, I wasn't surprised when it turned out she was interested in some knucklehead lacrosse player, okay?  ##surprise
+And if you truly take care of you, you will be amazed at how much girls like Sheena start lining up at your front door.  ##surprise
+Mike was taken aback by the fact that his girlfriend had resigned without discussing it with him.  ##surprise
+I felt nonplussed when she asked me that question, because I had not read the material.  ##surprise
+My parents were staggered by how much my sister and I ate last night.  ##surprise
+Kate looked at her mother, speechless, after hearing what her father said.  ##surprise
+The whole team was astonished by the experimental result which was totally different from what they’ve expected.  ##surprise
+The leader was amazed that Kate could accomplish the task in such a short time. ##surprise
+They were so surprised to see Dan last night because they thought he wouldn’t come to the party.  ##surprise
+Her face showed surprise at the news.  ##surprise
+The news greatly surprised us.  ##surprise
+To our surprise，the boy won the prize.  ##surprise
+When I received his letter，I was very surprised.  ##surprise
+We'll solve the case ourselves and surprise everyone.  ##surprise
+My voice surprised me; it was even and emotionless.  ##surprise
+It is not surprising that children learn to read at different rates.  ##surprise
+Wow, how awesome is this? ##surprise
+Oh my gosh, this is wild! ##surprise
+I am so excited! ##surprise
+It can't be. ##surprise
 I'm very surprised to hear that.  ##surprise
-It can't be.  ##surprise
-My God!  ##surprise
-Who can have thought of it?  ##surprise
+I can't believe my eyes. ##surprise
+It's hard to believe. ##surprise
+Fancy that! ##surprise
+That's extraordinary. ##surprise
+Incredible. ##surprise
+What a surprise. ##surprise
+How can you do that! ##surprise
+How amazing. ##surprise
+What did you Say! ##surprise
+Astounded! ##surprise
+My God! ##surprise
+Oh! ##surprise
+Really! ##surprise
+What! ##surprise
+And! ##surprise
+Why!  ##surprise
+You are pulling my leg, aren't you? ##surprise
 The news comes as a surprise.  ##surprise
-I think it's hard to believe. ##surprise
-It's too good to be true. ##surprise
-Really? ##surprise
-Are you kidding me? ##surprise
-You must be joking. ##surprise
-Are you joking? ##surprise
-Are you serious? ##surprise
-It can't be ture. ##surprise
-How is that possible? ##surprise
-Stop complaining!  ##anger
-I even dead,also you together.  ##anger
-Don't tell me. Not the slightest difference?How could that be? All this publicity and not one bit of difference? ##anger
-Are you an idiot?  Of course I need a car.God! ##anger
-If he's not here, he has a reason, because there is not a cruel or careless bone in his body. I can't expect you to know anything about a person like that. You've nothing but a suit. ##anger
-How can you say that?   ##anger
-You make me sick!   ##anger
-Who says?   ##anger
-What's wrong with you?   ##anger
-You shouldn't have done that!   ##anger
-Don't look at me like that.  ##anger
-You're a jerk!  ##anger
-What did you say?  ##anger
-Don't talk to me like that!   ##anger
-You are out of your mind.  ##anger
-Who do you think you are?   ##anger
-I hate you!   ##anger
-I don't want to see your face!   ##anger
-Don't give me your shit.  ##anger
-Don't bother me.  ##anger
-You're an asshole.  ##anger
-You bastard!   ##anger
-Get out of my face.  ##anger
-Leave me alone.  ##anger
-He is really afraid of the dark. ##fear
-I have a great fear of sharks. ##fear
-I fear I won' t finish my assignment on time. ##fear
-I' m frightened I might fall. ##fear
-That movie was absolutely terrifying.  ##fear
-I was petrified when I heard a noise outside. ##fear
-That guy gives me the creeps. ##fear
-I think he has a few last-minute jitters. ##fear
-I am afraid his strength will not avail against his opponent's courage. ##fear
-I'm afraid of snakes. ##fear
-I have a fear of being in small places. ##fear
-You frightened me. ##fear
-You scared me to death. ##fear
-That horror movie made my hair stand on end. ##fear
-I was scared. ##fear
-My blood ran cold. ##fear
-It gave me goose bumps. ##fear
-It is really creeping me out, and I can't sleep. ##fear
-I get spooked from ghost stories and scary movies. ##fear
-I really had my heart in my mouth. ##fear
-That loud noise scared me out of my wits. ##fear
-She really scared the pants off of me. ##fear
-He drives like a madman - frightens the hell out of me. ##fear
-Stop shaking in your boots, Bob.  ##fear
+Do you believe him? ##surprise
+Stop complaining!   ##anger
+I even dead,also you together.   ##anger
+Don't tell me. Not the slightest difference?How could that be? All this publicity and not one bit of difference?  ##anger
+Are you an idiot?  Of course I need a car.God!  ##anger
+If he's not here, he has a reason, because there is not a cruel or careless bone in his body. I can't expect you to know anything about a person like that. You've nothing but a suit.  ##anger
+How can you say that?    ##anger
+You make me sick!    ##anger
+Who says?    ##anger
+What's wrong with you?    ##anger
+You shouldn't have done that!    ##anger
+Don't look at me like that.   ##anger
+You're a jerk!   ##anger
+What did you say?   ##anger
+Don't talk to me like that!    ##anger
+You are out of your mind.   ##anger
+Who do you think you are?    ##anger
+I hate you!    ##anger
+I don't want to see your face!    ##anger
+Don't give me your shit.   ##anger
+Don't bother me.   ##anger
+You're an asshole.   ##anger
+You bastard!    ##anger
+Get out of my face.   ##anger
+Leave me alone.   ##anger
+He is really afraid of the dark.  ##fear
+I have a great fear of sharks.  ##fear
+I fear I won' t finish my assignment on time.  ##fear
+I' m frightened I might fall.  ##fear
+That movie was absolutely terrifying.   ##fear
+I was petrified when I heard a noise outside.  ##fear
+That guy gives me the creeps.  ##fear
+I think he has a few last-minute jitters.  ##fear
+I am afraid his strength will not avail against his opponent's courage.  ##fear
+I'm afraid of snakes.  ##fear
+I have a fear of being in small places.  ##fear
+You frightened me.  ##fear
+You scared me to death.  ##fear
+That horror movie made my hair stand on end.  ##fear
+I was scared.  ##fear
+My blood ran cold.  ##fear
+It gave me goose bumps.  ##fear
+It is really creeping me out, and I can't sleep.  ##fear
+I get spooked from ghost stories and scary movies.  ##fear
+I really had my heart in my mouth.  ##fear
+That loud noise scared me out of my wits.  ##fear
+She really scared the pants off of me.  ##fear
+He drives like a madman - frightens the hell out of me.  ##fear
+Stop shaking in your boots, Bob.   ##fear
+This roller coaster is nerve-racking.  ##fear
+I find it nerve-racking to talk to strangers.   ##fear
+It's almost time for your job interview. Are you nervous?  ##fear
+I have a job interview in two hours. I’m on pins and needles here.  ##fear
+Mary is nervous about marrying Jim. She’s getting cold feet.   ##fear
+My roommate loves to watch scary movies.  ##fear
+Did you see that creepy guy at the park last night?  ##fear
+id you see that creep at the park last night?  ##fear
+Jane’s neighbour has been spying on her for a few days. What a creep!  ##fear
+This guy is giving me the creeps.  ##fear
+Ben got goosebumps when he won the competition.  ##fear
+He is really afraid of the dark.  ##fear
+I have a great fear of sharks.  ##fear
+That movie was absolutely terrifying.   ##fear
+That guy gives me the creeps.  ##fear
+He' s been dreading this day for months.   ##fear
+I think he has a few last-minute jitters, but he' ll be OK.   ##fear
+I fear I won' t finish my assignment on time.   ##fear
+I' m worried it might rain today.  ##fear
+I' m afraid I can' t come to your wedding.    ##fear

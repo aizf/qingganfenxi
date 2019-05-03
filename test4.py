@@ -1,4 +1,4 @@
-l = []
-x=1
-l.append(1 if x>=1 else 0)
-l
+a=[1]
+b=[1]
+a=1.123
+type(a)
