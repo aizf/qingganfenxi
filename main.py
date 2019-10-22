@@ -5,7 +5,7 @@ import sys
 import json
 
 import nltk
-from nltk.corpus import stopwords
+# from nltk.corpus import stopwords
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from nltk.tokenize import sent_tokenize, word_tokenize
 
@@ -58,11 +58,11 @@ class SentimentAnalysis():
             emo_prob = clf.prob_classify(features).prob(emo)
             sScoresXprob = float()
             if emo in neg:
-                sScoresXprob = sScores['neg'] * 0.7 + emo_prob * 0.3
+                sScoresXprob = sScores['neg'] * 0.9 + emo_prob * 0.1
             elif emo in pos:
-                sScoresXprob = sScores['pos'] * 0.7 + emo_prob * 0.3
+                sScoresXprob = sScores['pos'] * 0.9 + emo_prob * 0.1
             else:
-                sScoresXprob = abs(sScores['compound']) * 0.7 + emo_prob * 0.3
+                sScoresXprob = abs(sScores['compound']) * 0.9 + emo_prob * 0.1
             res[emo] = sScoresXprob
         return res
 
@@ -87,13 +87,13 @@ class SentimentAnalysis():
             print("emo_prob", emo_prob)
             if emo in neg:
                 print("emo_prob*sScores",
-                      sScores['neg'] * 0.7 + emo_prob * 0.3)
+                      sScores['neg'] * 0.9 + emo_prob * 0.1)
             elif emo in pos:
                 print("emo_prob*sScores",
-                      sScores['pos'] * 0.7 + emo_prob * 0.3)
+                      sScores['pos'] * 0.9 + emo_prob * 0.1)
             else:
                 print("emo_prob*sScores",
-                      abs(sScores['compound']) * 0.7 + emo_prob * 0.3)
+                      abs(sScores['compound']) * 0.9 + emo_prob * 0.1)
 
     def loadScriptJson(self, path):
         f = open(path, "r")
@@ -102,12 +102,12 @@ class SentimentAnalysis():
         # print(self.scriptJson)
 
     def byPerScene(self):
-        res = []
+        res = {}
         for scene in self.scriptJson:
             perSS = []
             for dialog in scene["dialog"]:
                 perSS.append(self.__score(dialog["content"]))
-            res.append({scene["scene_name"]: perSS})
+            res[scene["scene_name"]] = perSS
 
         f = open(r".\text\ForrestGump_score_byPerScene.json", "w")
         json.dump(res, f)
@@ -122,10 +122,10 @@ if __name__ == "__main__":
     sa = SentimentAnalysis(emos)
 
     # 重新训练模型
-    # sa.reTrain()
+    sa.reTrain()
     # 测试句子
-    testText = """He's very smart. """
-    sa.score(testText)
+    # testText = """He's very smart. """
+    # sa.score(testText)
 
-    # sa.loadScriptJson(r".\text\ForrestGump_script_id_time_sentiment.json")
-    # print(sa.byPerScene())
+    sa.loadScriptJson(r".\text\ForrestGump_script_id_time_sentiment.json")
+    print(sa.byPerScene())
